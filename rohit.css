@@ -1,0 +1,18 @@
+h1{
+  font-family:'Gill Sans';
+  background-color: rgb(0, 132, 184);
+}
+
+table,
+td,
+tr,
+th {
+  border: 1px solid brown;
+  border-collapse: collapse;
+  height: 100px;
+}
+table{
+  width: 1000px;
+  height: 100px;
+  margin: auto;
+}

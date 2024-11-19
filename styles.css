@@ -1,0 +1,22 @@
+h1{
+    font-family:'Times New Roman';
+    background-color:aquamarine;
+    color:darkblue
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  #blogList .blog-entry {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
